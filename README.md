@@ -1,4 +1,4 @@
-##NAME jsonweb
+##jsonweb
 - backup/restore html and css files into index.json 
 
 ##SYNOPSIS
@@ -11,6 +11,8 @@
 ```bash
 git clone https://github.com/z448/jsonweb
 cd jsonweb
+# install JSON dependency using carton
+carton install
 ```
 
 - set enviroment
